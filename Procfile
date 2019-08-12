@@ -1,1 +1,1 @@
-web gunicorn line-rob:line-rob
+web gunicorn app:line-rob
